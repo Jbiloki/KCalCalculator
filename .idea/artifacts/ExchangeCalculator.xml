@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExchangeCalculator">
+    <output-path>$USER_HOME$/Desktop/ExchangeCalculator</output-path>
+    <root id="archive" name="ExchangeCalculator.jar">
+      <element id="archive" name="ExchangeCalculator.jar">
+        <element id="module-output" name="ExchangeCalculator" />
+      </element>
+    </root>
+  </artifact>
+</component>

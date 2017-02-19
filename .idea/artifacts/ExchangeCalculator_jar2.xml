@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ExchangeCalculator:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExchangeCalculator_jar2</output-path>
+    <root id="archive" name="ExchangeCalculator.jar">
+      <element id="module-output" name="ExchangeCalculator" />
+    </root>
+  </artifact>
+</component>
